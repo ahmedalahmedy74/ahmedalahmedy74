@@ -1,52 +1,97 @@
-<h2>Hey 👋, I'm Ahmed Gomaa</h2>
-<p>
-Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
-Based in 🇪🇬 Egypt.
+<h1 align="center">Hi 👋, I'm Ahmed Gomaa</h1>
+
+<h3 align="center">
+🚀 Frontend Developer | React Enthusiast ⚛️
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+Specialist;Building+Modern+Web+Apps;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
-<p>
-<a href="#"><img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&logo=Firefox" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn" /></a>
-<a href="#"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub" /></a>
+<p align="center">
+💻 I build clean, fast & modern web experiences  
+⚛️ React is my playground  
+🚀 Turning ideas into real products  
 </p>
 
-<p>🚀 Always learning and building cool stuff!</p>
-
-<img align="right" src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
-
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>💻 I’m a Frontend Developer focused on building modern UI.</li>
-<li>⚛️ Working mainly with <strong>React.js</strong> and modern JavaScript.</li>
-<li>🎨 Passionate about UI/UX and clean design.</li>
-<li>📚 Currently learning <strong>Next.js</strong> and improving performance skills.</li>
-<li>🛠️ I love turning ideas into real interactive products.</li>
-<li>💬 Ask me about <strong>HTML, CSS, JavaScript, React</strong>.</li>
-</ul>
-
-<h2>🚀 Tech Stack</h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30"/>
+<p align="center">
+<a href="https://your-portfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/your-link">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
-<h2>📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+---
 
-<h2>🔥 Most Used Languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h2>📫 Contact Me</h2>
-<ul>
-<li>📧 Email: your@email.com</li>
-<li>💼 LinkedIn: your-linkedin</li>
-<li>🌐 Portfolio: your-portfolio</li>
-</ul>
+### 🧑‍💻 About Me
+
+* 💻 Frontend Developer using **React.js**
+* 🎯 Focused on performance & clean UI
+* 📚 Currently learning **Next.js**
+* 🎨 Love UI/UX & animations
+* ⚡ Always building new projects
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,git,github,vscode" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+* 🛒 E-commerce Website
+* 🎬 Movies App
+* 📊 Dashboard UI
+* 🌐 Portfolio Website
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### ⚡ GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+<p align="center">
+📧 your@email.com <br/>
+💼 LinkedIn: your-linkedin <br/>
+🌐 Portfolio: your-portfolio
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+😎 I don’t just write code… I build experiences
