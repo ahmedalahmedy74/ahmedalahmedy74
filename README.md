@@ -15,21 +15,22 @@
 </p>
 
 <p align="center">
-<a href="https://your-portfolio.com">
+<a href="https://your-portfolio.com" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
-<a href="
-www.linkedin.com/in/ahmed-gomaa-165891360">
+
+<a href="https://www.linkedin.com/in/ahmed-gomaa-165891360" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your@email.com">
+
+<a href="mailto:ahmedgomaa@email.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
 ### 🧑‍💻 About Me
 
