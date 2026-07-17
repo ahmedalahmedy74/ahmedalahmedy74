@@ -19,12 +19,12 @@
 
 ### 🧑‍💻 About Me
 
-* 💻 Frontend Developer specialized in **React.js**
-* 🎯 Focused on **performance & clean UI**
-* 📚 Currently learning **Next.js & advanced patterns**
-* 🎨 Love working with **UI/UX & animations**
-* ⚡ Always improving and building new projects
-
+💻 Frontend Developer specialized in React.js & TypeScript.
+🎯 Obsessed with performance optimization and clean, scalable code.
+🚀 Passionate about building modern, responsive web applications.
+🛠 Currently mastering Next.js and advanced design patterns.
+🎨 Bridging the gap between high-end design and functional development.
+⚡ Always pushing boundaries, building projects, and solving complex problems.
 ---
 
 ### 🚀 Tech Stack
@@ -64,16 +64,17 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
+
 
 ---
 
 ### 📫 Contact Me
 
 <p align="center">
-📧 your@email.com <br/>
-💼 LinkedIn: your-linkedin <br/>
+📧 ahmedalahmedy213@gmail.com <br/>   
+💼 www.linkedin.com/in/ahmed-gomaa-165891360 <br/>
 🌐 Portfolio: your-portfolio
 </p>
 
@@ -81,4 +82,4 @@
 
 ### ⚡ Fun Fact
 
-💡 I don’t just write code… I build experiences 😎
+💡 I don’t just write code… I build experiences 
