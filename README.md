@@ -60,8 +60,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedalahmedy74&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalahmedy74&layout=compact&theme=tokyonight" height="150"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -69,7 +68,7 @@
 ### ⚡ GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ahmedalahmedy74&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
