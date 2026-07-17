@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gomaa</h1>
 
 <h3 align="center">
-🚀 Frontend Developer | React Enthusiast ⚛️
+⚛️ React Frontend Developer | Building modern web apps 🚀
 </h3>
 
 <p align="center">
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:ahmedgomaa@email.com">
+<a href="mailto:ahmedalahmedy213@email.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -34,18 +34,19 @@
 
 ### 🧑‍💻 About Me
 
-* 💻 Frontend Developer using **React.js**
-* 🎯 Focused on performance & clean UI
-* 📚 Currently learning **Next.js**
-* 🎨 Love UI/UX & animations
-* ⚡ Always building new projects
+* 💻 React Frontend Developer
+* ⚛️ Building modern, fast & user-friendly web apps
+* 🤖 Learning Machine Learning at Digital Egypt Pioneers Initiative (DEPI)
+* 🎯 Focused on performance, UI & real-world projects
+* 📚 Constantly improving my skills and exploring new technologies
+* ⚡ Turning ideas into real products
 
 ---
 
 ### 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,bootstrap,git,github,c++,vscode" />
 </p>
 
 ---
