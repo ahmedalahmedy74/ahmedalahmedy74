@@ -1,85 +1,52 @@
-<h1 align="center">Hi 👋, I'm Ahmed Gomaa</h1>
-<h3 align="center">Frontend Developer | React Enthusiast ⚛️</h3>
-
-<p align="center">
-🚀 Passionate about building modern, fast & responsive web apps  
-📍 Based in Egypt 🇪🇬  
-💡 Turning ideas into interactive experiences  
+<h2>Hey 👋, I'm Ahmed Gomaa</h2>
+<p>
+Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
+Based in 🇪🇬 Egypt.
 </p>
 
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p>
+<a href="#"><img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&logo=Firefox" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn" /></a>
+<a href="#"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub" /></a>
 </p>
 
----
+<p>🚀 Always learning and building cool stuff!</p>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 
-### 🧑‍💻 About Me
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>💻 I’m a Frontend Developer focused on building modern UI.</li>
+<li>⚛️ Working mainly with <strong>React.js</strong> and modern JavaScript.</li>
+<li>🎨 Passionate about UI/UX and clean design.</li>
+<li>📚 Currently learning <strong>Next.js</strong> and improving performance skills.</li>
+<li>🛠️ I love turning ideas into real interactive products.</li>
+<li>💬 Ask me about <strong>HTML, CSS, JavaScript, React</strong>.</li>
+</ul>
 
-💻 Frontend Developer specialized in React.js & TypeScript.
-🎯 Obsessed with performance optimization and clean, scalable code.
-🚀 Passionate about building modern, responsive web applications.
-🛠 Currently mastering Next.js and advanced design patterns.
-🎨 Bridging the gap between high-end design and functional development.
-⚡ Always pushing boundaries, building projects, and solving complex problems.
----
-
-### 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,git,github,vscode" />
+<h2>🚀 Tech Stack</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30"/>
 </p>
 
----
+<h2>📊 GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 
-### 🔥 Featured Projects
+<h2>🔥 Most Used Languages</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 
-* 🛒 E-commerce Website (React + API)
-* 🎬 Movies App (API + Responsive UI)
-* 📊 Dashboard UI (Charts + Admin Panel)
-* 🌐 Portfolio Website
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-### ⚡ GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-
----
-
-### 📫 Contact Me
-
-<p align="center">
-📧 ahmedalahmedy213@gmail.com <br/>   
-💼 www.linkedin.com/in/ahmed-gomaa-165891360 <br/>
-🌐 Portfolio: your-portfolio
-</p>
-
----
-
-### ⚡ Fun Fact
-
-💡 I don’t just write code… I build experiences 
+<h2>📫 Contact Me</h2>
+<ul>
+<li>📧 Email: your@email.com</li>
+<li>💼 LinkedIn: your-linkedin</li>
+<li>🌐 Portfolio: your-portfolio</li>
+</ul>
