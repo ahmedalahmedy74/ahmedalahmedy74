@@ -46,49 +46,25 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,bootstrap,git,github,c++,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,bootstrap,git,github,vscode" />
 </p>
 
 ---
 
-### 🔥 Featured Projects
+### 🚀 Upcoming Projects
 
-* 🛒 E-commerce Website
-* 🎬 Movies App
-* 📊 Dashboard UI
-* 🌐 Portfolio Website
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
-</p>
-
----
-
-### ⚡ GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ahmedalahmedy74&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</p>
+* 🛒 E-commerce Website (Coming Soon)
+* 🎬 Movies App (Coming Soon)
+* 📊 Dashboard UI (Coming Soon)
+* 🌐 Portfolio Website (In Progress)
 
 ---
 
 ### 📫 Contact Me
 
 <p align="center">
-📧 your@email.com <br/>
-💼 LinkedIn: your-linkedin <br/>
+📧 ahmedalahmed213@gmail.com <br/>
+💼 LinkedIn: www.linkedin.com/in/ahmed-gomaa-165891360 <br/>
 🌐 Portfolio: your-portfolio
 </p>
 
@@ -96,4 +72,6 @@
 
 ### ⚡ Fun Fact
 
-😎 I don’t just write code… I build experiences
+😎 I don’t just write code… I build experiences  
+🚀 I turn ideas into real, interactive products  
+☕ Powered by coffee & curiosity
